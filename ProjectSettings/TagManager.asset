@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Currency
+  - Bullet
+  - Seeker
+  - Hider
+  - effect
+  - loweffect
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - AI
+  - 
+  - Coin
+  - Door
+  - Wall
+  - Floor
+  - Border
+  - PlayerTrigger
+  - AITrigger
+  - 
+  - PaintPuddle
+  - Teleporter
+  - ItemBooster
+  - Effect
+  - 
+  - 
+  - 
+  - Preview
+  - 
+  - 
+  - 
+  - 
+  - Invisible
+  m_SortingLayers:
+  - name: "Default"
+    uniqueID: 0
+    locked: 0

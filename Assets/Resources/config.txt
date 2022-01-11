@@ -1,0 +1,1 @@
+{"ParamsMap":{"Speed":5.0,"AngleLerpFactor":10.0,"UnitRotateSpeed":300.0,"EnemySpeed":5.0,"CoinRadius":1.0,"CoinsByRescue":10.0,"AudibilityRadius":10.0,"MinDistanceToEnemy":5.0,"RescueReloadDuration":3.0,"GameStartDelayDuration":3.0,"CameraGameZoom":60.0,"CameraMenuZoom":88.0,"CameraSeekZoom":15.0}}

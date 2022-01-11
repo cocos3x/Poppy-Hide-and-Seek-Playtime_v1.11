@@ -1,0 +1,1 @@
+{"listData":[{"propertyName":"feature_selected_lost_coin_01"},{"propertyName":"feature_selecterd_play_normal_01"},{"propertyName":"feature_selecterd_level_fail_01"}]}
